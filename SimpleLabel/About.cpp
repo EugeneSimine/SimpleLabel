@@ -1,7 +1,7 @@
 /*	SimpleLabel - a simple and light program for semi automatic labeling of regions
 	of interest on images or image sequences. 
 	Developed at Laboratory for Active and Attentive Vision, York University, Toronto.
-	http://www.cse.yorku.ca/LAAV/home/ headed by John K. Tsotsos.
+	http://www.cse.yorku.ca/labs/laav/ headed by John K. Tsotsos.
 
     Copyright (C) 2010  Eugene Simine.
 

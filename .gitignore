@@ -28,3 +28,4 @@ SimpleLabelTests/debug/
 SimpleLabelTests/release/
 *.user
 *.rc
+ipch/
