@@ -14,8 +14,8 @@ win32 {
 	DEFINES += _CRT_SECURE_NO_WARNINGS
 
 	CONFIG(debug, debug|release) {
-     		LIBS += C:/OpenCV/lib/opencv_core242d.lib \
-    		C:/OpenCV/lib/opencv_highgui242d.lib \
+     		LIBS += C:/OpenCV/lib/opencv_core244d.lib \
+    		C:/OpenCV/lib/opencv_highgui244d.lib \
 		C:/gtest-1.6.0/lib/gtest-mdd.lib \
 		C:/gtest-1.6.0/lib/gtest_main-mdd.lib
 
@@ -24,8 +24,8 @@ win32 {
 		OBJECTS_DIR += debug
     		INCLUDEPATH += ./GeneratedFiles/debug
 	} else {
-		LIBS += C:/OpenCV/lib/opencv_core242.lib \
-    		C:/OpenCV/lib/opencv_highgui242.lib \
+		LIBS += C:/OpenCV/lib/opencv_core244.lib \
+    		C:/OpenCV/lib/opencv_highgui244.lib \
 		C:/gtest-1.6.0/lib/gtest-md.lib \
 		C:/gtest-1.6.0/lib/gtest_main-md.lib
 

@@ -11,7 +11,7 @@ Contact: 	Eugene Simine <eugene@cse.yorku.ca> or
 
 Requirements for development:
 Qt4.*
-OpenCV2.4.2
+OpenCV2.4.4
 
 OS Support:
 Windows (XP, Vista, 7)
